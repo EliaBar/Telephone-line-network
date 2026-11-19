@@ -1,0 +1,1974 @@
+Events protocol
+Mark in Net TelephoneNetworkModel:
+0  0  0  0  10  0  1  0  0  0
+
+Time progress: time = 0.9219807373901844
+NextEvent: time = 0.9219807373901844   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  1  1  0  10  0  1  0  0  0
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  1  0  0  9  0  1  0  0  0
+
+Time progress: time = 0.9219807373901844
+NextEvent: time = 0.9219807373901844   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  1  0  0  9  1  1  0  0  0
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  1  0  0  9  0  0  0  0  0
+
+Time progress: time = 0.9219807373901844
+NextEvent: time = 0.9219807373901844   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  1  0  0  9  0  0  1  0  0
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  1  0  0  9  0  0  0  0  0
+
+Time progress: time = 1.1719312550043535
+NextEvent: time = 1.1719312550043535   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  1  0  0  9  0  1  0  1  0
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  1  0  0  9  0  1  0  0  0
+
+Time progress: time = 1.4959434568443606
+NextEvent: time = 1.4959434568443606   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  2  1  0  9  0  1  0  0  0
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  2  0  0  8  0  1  0  0  0
+
+Time progress: time = 1.4959434568443606
+NextEvent: time = 1.4959434568443606   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  2  0  0  8  1  1  0  0  0
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  2  0  0  8  0  0  0  0  0
+
+Time progress: time = 1.4959434568443606
+NextEvent: time = 1.4959434568443606   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  2  0  0  8  0  0  1  0  0
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  2  0  0  8  0  0  0  0  0
+
+Time progress: time = 1.7978196255471657
+NextEvent: time = 1.7978196255471657   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  2  0  0  8  0  1  0  1  0
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  2  0  0  8  0  1  0  0  0
+
+Time progress: time = 2.9193086336010565
+NextEvent: time = 2.9193086336010565   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  3  1  0  8  0  1  0  0  0
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  3  0  0  7  0  1  0  0  0
+
+Time progress: time = 2.9193086336010565
+NextEvent: time = 2.9193086336010565   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  3  0  0  7  1  1  0  0  0
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  3  0  0  7  0  0  0  0  0
+
+Time progress: time = 2.9193086336010565
+NextEvent: time = 2.9193086336010565   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  3  0  0  7  0  0  1  0  0
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  3  0  0  7  0  0  0  0  0
+
+Time progress: time = 3.3075889567880186
+NextEvent: time = 3.3075889567880186   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  3  0  0  7  0  1  0  1  0
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  3  0  0  7  0  1  0  0  0
+
+Time progress: time = 4.5737784707676274
+NextEvent: time = 4.5737784707676274   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  4  1  0  7  0  1  0  0  0
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  4  0  0  6  0  1  0  0  0
+
+Time progress: time = 4.5737784707676274
+NextEvent: time = 4.5737784707676274   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  4  0  0  6  1  1  0  0  0
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  4  0  0  6  0  0  0  0  0
+
+Time progress: time = 4.5737784707676274
+NextEvent: time = 4.5737784707676274   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  4  0  0  6  0  0  1  0  0
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  4  0  0  6  0  0  0  0  0
+
+Time progress: time = 4.640793835259048
+NextEvent: time = 4.640793835259048   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  4  0  0  6  0  1  0  1  0
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  4  0  0  6  0  1  0  0  0
+
+Time progress: time = 5.1279647298983795
+NextEvent: time = 5.1279647298983795   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  5  1  0  6  0  1  0  0  0
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  5  0  0  5  0  1  0  0  0
+
+Time progress: time = 5.1279647298983795
+NextEvent: time = 5.1279647298983795   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  5  0  0  5  1  1  0  0  0
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  5  0  0  5  0  0  0  0  0
+
+Time progress: time = 5.1279647298983795
+NextEvent: time = 5.1279647298983795   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  5  0  0  5  0  0  1  0  0
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  5  0  0  5  0  0  0  0  0
+
+Time progress: time = 5.192785195503986
+NextEvent: time = 5.192785195503986   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  5  0  0  5  0  1  0  1  0
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  5  0  0  5  0  1  0  0  0
+
+Time progress: time = 5.3048101555201175
+NextEvent: time = 5.3048101555201175   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  6  1  0  5  0  1  0  0  0
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  6  0  0  4  0  1  0  0  0
+
+Time progress: time = 5.3048101555201175
+NextEvent: time = 5.3048101555201175   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  6  0  0  4  1  1  0  0  0
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  6  0  0  4  0  0  0  0  0
+
+Time progress: time = 5.3048101555201175
+NextEvent: time = 5.3048101555201175   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  6  0  0  4  0  0  1  0  0
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  6  0  0  4  0  0  0  0  0
+
+Time progress: time = 5.422181168106586
+NextEvent: time = 5.422181168106586   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  6  0  0  4  0  1  0  1  0
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  6  0  0  4  0  1  0  0  0
+
+Time progress: time = 5.467200325301384
+NextEvent: time = 5.467200325301384   Event 'T_Talk'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  6  0  0  5  0  1  0  0  1
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  6  0  0  5  0  1  0  0  1
+
+Time progress: time = 5.6249621845700535
+NextEvent: time = 5.6249621845700535   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  7  1  0  5  0  1  0  0  1
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  7  0  0  4  0  1  0  0  1
+
+Time progress: time = 5.6249621845700535
+NextEvent: time = 5.6249621845700535   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  7  0  0  4  1  1  0  0  1
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  7  0  0  4  0  0  0  0  1
+
+Time progress: time = 5.6249621845700535
+NextEvent: time = 5.6249621845700535   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  7  0  0  4  0  0  1  0  1
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  7  0  0  4  0  0  0  0  1
+
+Time progress: time = 5.705625369462515
+NextEvent: time = 5.705625369462515   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  7  0  0  4  0  1  0  1  1
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  7  0  0  4  0  1  0  0  1
+
+Time progress: time = 5.828023787450445
+NextEvent: time = 5.828023787450445   Event 'T_Talk'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  7  0  0  5  0  1  0  0  2
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  7  0  0  5  0  1  0  0  2
+
+Time progress: time = 6.676572534783348
+NextEvent: time = 6.676572534783348   Event 'T_Talk'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  7  0  0  6  0  1  0  0  3
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  7  0  0  6  0  1  0  0  3
+
+Time progress: time = 6.724540241921391
+NextEvent: time = 6.724540241921391   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  8  1  0  6  0  1  0  0  3
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  8  0  0  5  0  1  0  0  3
+
+Time progress: time = 6.724540241921391
+NextEvent: time = 6.724540241921391   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  8  0  0  5  1  1  0  0  3
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  8  0  0  5  0  0  0  0  3
+
+Time progress: time = 6.724540241921391
+NextEvent: time = 6.724540241921391   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  8  0  0  5  0  0  1  0  3
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  8  0  0  5  0  0  0  0  3
+
+Time progress: time = 7.163447871412691
+NextEvent: time = 7.163447871412691   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  8  0  0  5  0  1  0  1  3
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  8  0  0  5  0  1  0  0  3
+
+Time progress: time = 7.3231032448748605
+NextEvent: time = 7.3231032448748605   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  9  1  0  5  0  1  0  0  3
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  9  0  0  4  0  1  0  0  3
+
+Time progress: time = 7.3231032448748605
+NextEvent: time = 7.3231032448748605   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  9  0  0  4  1  1  0  0  3
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  9  0  0  4  0  0  0  0  3
+
+Time progress: time = 7.3231032448748605
+NextEvent: time = 7.3231032448748605   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  9  0  0  4  0  0  1  0  3
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  9  0  0  4  0  0  0  0  3
+
+Time progress: time = 7.530349442877575
+NextEvent: time = 7.530349442877575   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  10  1  0  4  0  0  0  0  3
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  10  0  0  3  0  0  0  0  3
+
+Time progress: time = 7.530349442877575
+NextEvent: time = 7.530349442877575   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  10  0  0  3  1  0  0  0  3
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  10  0  0  3  1  0  0  0  3
+
+Time progress: time = 8.039957024210915
+NextEvent: time = 8.039957024210915   Event 'T_Talk'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  10  0  0  4  1  0  0  0  4
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  10  0  0  4  1  0  0  0  4
+
+Time progress: time = 8.283217849930388
+NextEvent: time = 8.283217849930388   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  10  0  0  4  1  1  0  1  4
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  10  0  0  4  0  0  0  0  4
+
+Time progress: time = 8.283217849930388
+NextEvent: time = 8.283217849930388   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  10  0  0  4  0  0  1  0  4
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  10  0  0  4  0  0  0  0  4
+
+Time progress: time = 8.454348294019422
+NextEvent: time = 8.454348294019422   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  10  0  0  4  0  1  0  1  4
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  10  0  0  4  0  1  0  0  4
+
+Time progress: time = 9.027220745486101
+NextEvent: time = 9.027220745486101   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  11  1  0  4  0  1  0  0  4
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  11  0  0  3  0  1  0  0  4
+
+Time progress: time = 9.027220745486101
+NextEvent: time = 9.027220745486101   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  11  0  0  3  1  1  0  0  4
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  11  0  0  3  0  0  0  0  4
+
+Time progress: time = 9.027220745486101
+NextEvent: time = 9.027220745486101   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  11  0  0  3  0  0  1  0  4
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  11  0  0  3  0  0  0  0  4
+
+Time progress: time = 9.141220314544537
+NextEvent: time = 9.141220314544537   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  11  0  0  3  0  1  0  1  4
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  11  0  0  3  0  1  0  0  4
+
+Time progress: time = 10.034004451798785
+NextEvent: time = 10.034004451798785   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  12  1  0  3  0  1  0  0  4
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  12  0  0  2  0  1  0  0  4
+
+Time progress: time = 10.034004451798785
+NextEvent: time = 10.034004451798785   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  12  0  0  2  1  1  0  0  4
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  12  0  0  2  0  0  0  0  4
+
+Time progress: time = 10.034004451798785
+NextEvent: time = 10.034004451798785   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  12  0  0  2  0  0  1  0  4
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  12  0  0  2  0  0  0  0  4
+
+Time progress: time = 10.354554040267473
+NextEvent: time = 10.354554040267473   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  13  1  0  2  0  0  0  0  4
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  13  0  0  1  0  0  0  0  4
+
+Time progress: time = 10.354554040267473
+NextEvent: time = 10.354554040267473   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  13  0  0  1  1  0  0  0  4
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  13  0  0  1  1  0  0  0  4
+
+Time progress: time = 10.372797375916997
+NextEvent: time = 10.372797375916997   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  13  0  0  1  1  1  0  1  4
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  13  0  0  1  0  0  0  0  4
+
+Time progress: time = 10.372797375916997
+NextEvent: time = 10.372797375916997   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  13  0  0  1  0  0  1  0  4
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  13  0  0  1  0  0  0  0  4
+
+Time progress: time = 10.578195470740072
+NextEvent: time = 10.578195470740072   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  13  0  0  1  0  1  0  1  4
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  13  0  0  1  0  1  0  0  4
+
+Time progress: time = 10.703847766843714
+NextEvent: time = 10.703847766843714   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  14  1  0  1  0  1  0  0  4
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  14  0  0  0  0  1  0  0  4
+
+Time progress: time = 10.703847766843714
+NextEvent: time = 10.703847766843714   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  14  0  0  0  1  1  0  0  4
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  14  0  0  0  0  0  0  0  4
+
+Time progress: time = 10.703847766843714
+NextEvent: time = 10.703847766843714   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  14  0  0  0  0  0  1  0  4
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  14  0  0  0  0  0  0  0  4
+
+Time progress: time = 10.795292011642099
+NextEvent: time = 10.795292011642099   Event 'T_Talk'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  14  0  0  1  0  0  0  0  5
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  14  0  0  1  0  0  0  0  5
+
+Time progress: time = 11.167879621167629
+NextEvent: time = 11.167879621167629   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  14  0  0  1  0  1  0  1  5
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  14  0  0  1  0  1  0  0  5
+
+Time progress: time = 11.579164869941678
+NextEvent: time = 11.579164869941678   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  15  1  0  1  0  1  0  0  5
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  15  0  0  0  0  1  0  0  5
+
+Time progress: time = 11.579164869941678
+NextEvent: time = 11.579164869941678   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  15  0  0  0  1  1  0  0  5
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  15  0  0  0  0  0  0  0  5
+
+Time progress: time = 11.579164869941678
+NextEvent: time = 11.579164869941678   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  15  0  0  0  0  0  1  0  5
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  15  0  0  0  0  0  0  0  5
+
+Time progress: time = 11.783925836471887
+NextEvent: time = 11.783925836471887   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  15  0  0  0  0  1  0  1  5
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  15  0  0  0  0  1  0  0  5
+
+Time progress: time = 12.023196723257776
+NextEvent: time = 12.023196723257776   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  16  1  0  0  0  1  0  0  5
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  16  0  0  0  0  1  0  0  5
+
+Time progress: time = 12.941211397668827
+NextEvent: time = 12.941211397668827   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  17  1  0  0  0  1  0  0  5
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  17  0  0  0  0  1  0  0  5
+
+Time progress: time = 13.87535130864172
+NextEvent: time = 13.87535130864172   Event 'T_Talk'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  17  0  0  1  0  1  0  0  6
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  17  0  0  1  0  1  0  0  6
+
+Time progress: time = 14.382353457517006
+NextEvent: time = 14.382353457517006   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  18  1  0  1  0  1  0  0  6
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  18  0  0  0  0  1  0  0  6
+
+Time progress: time = 14.382353457517006
+NextEvent: time = 14.382353457517006   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  18  0  0  0  1  1  0  0  6
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  18  0  0  0  0  0  0  0  6
+
+Time progress: time = 14.382353457517006
+NextEvent: time = 14.382353457517006   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  18  0  0  0  0  0  1  0  6
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  18  0  0  0  0  0  0  0  6
+
+Time progress: time = 14.578935058566092
+NextEvent: time = 14.578935058566092   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  18  0  0  0  0  1  0  1  6
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  18  0  0  0  0  1  0  0  6
+
+Time progress: time = 14.737641350119246
+NextEvent: time = 14.737641350119246   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  19  1  0  0  0  1  0  0  6
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  19  0  0  0  0  1  0  0  6
+
+Time progress: time = 15.51399978564288
+NextEvent: time = 15.51399978564288   Event 'T_Talk'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  19  0  0  1  0  1  0  0  7
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  19  0  0  1  0  1  0  0  7
+
+Time progress: time = 15.719707792716456
+NextEvent: time = 15.719707792716456   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  20  1  0  1  0  1  0  0  7
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  20  0  0  0  0  1  0  0  7
+
+Time progress: time = 15.719707792716456
+NextEvent: time = 15.719707792716456   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  20  0  0  0  1  1  0  0  7
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  20  0  0  0  0  0  0  0  7
+
+Time progress: time = 15.719707792716456
+NextEvent: time = 15.719707792716456   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  20  0  0  0  0  0  1  0  7
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  20  0  0  0  0  0  0  0  7
+
+Time progress: time = 15.836959621214799
+NextEvent: time = 15.836959621214799   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  20  0  0  0  0  1  0  1  7
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  20  0  0  0  0  1  0  0  7
+
+Time progress: time = 15.897562853163464
+NextEvent: time = 15.897562853163464   Event 'T_Talk'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  20  0  0  1  0  1  0  0  8
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  20  0  0  1  0  1  0  0  8
+
+Time progress: time = 17.33549481935456
+NextEvent: time = 17.33549481935456   Event 'T_Talk'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  20  0  0  2  0  1  0  0  9
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  20  0  0  2  0  1  0  0  9
+
+Time progress: time = 17.645676016856374
+NextEvent: time = 17.645676016856374   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  21  1  0  2  0  1  0  0  9
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  21  0  0  1  0  1  0  0  9
+
+Time progress: time = 17.645676016856374
+NextEvent: time = 17.645676016856374   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  21  0  0  1  1  1  0  0  9
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  21  0  0  1  0  0  0  0  9
+
+Time progress: time = 17.645676016856374
+NextEvent: time = 17.645676016856374   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  21  0  0  1  0  0  1  0  9
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  21  0  0  1  0  0  0  0  9
+
+Time progress: time = 18.362337100794225
+NextEvent: time = 18.362337100794225   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  22  1  0  1  0  0  0  0  9
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  22  0  0  0  0  0  0  0  9
+
+Time progress: time = 18.362337100794225
+NextEvent: time = 18.362337100794225   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  22  0  0  0  1  0  0  0  9
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  22  0  0  0  1  0  0  0  9
+
+Time progress: time = 18.4264030372807
+NextEvent: time = 18.4264030372807   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  22  0  0  0  1  1  0  1  9
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  22  0  0  0  0  0  0  0  9
+
+Time progress: time = 18.4264030372807
+NextEvent: time = 18.4264030372807   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  22  0  0  0  0  0  1  0  9
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  22  0  0  0  0  0  0  0  9
+
+Time progress: time = 18.59353701446947
+NextEvent: time = 18.59353701446947   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  23  1  0  0  0  0  0  0  9
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  23  0  0  0  0  0  0  0  9
+
+Time progress: time = 19.323938596437742
+NextEvent: time = 19.323938596437742   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  23  0  0  0  0  1  0  1  9
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  23  0  0  0  0  1  0  0  9
+
+Time progress: time = 19.983863835207114
+NextEvent: time = 19.983863835207114   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  24  1  0  0  0  1  0  0  9
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  24  0  0  0  0  1  0  0  9
+
+Time progress: time = 20.137128653269876
+NextEvent: time = 20.137128653269876   Event 'T_Talk'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  24  0  0  1  0  1  0  0  10
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  24  0  0  1  0  1  0  0  10
+
+Time progress: time = 21.17085779945119
+NextEvent: time = 21.17085779945119   Event 'T_Talk'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  24  0  0  2  0  1  0  0  11
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  24  0  0  2  0  1  0  0  11
+
+Time progress: time = 21.632226051970584
+NextEvent: time = 21.632226051970584   Event 'T_Talk'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  24  0  0  3  0  1  0  0  12
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  24  0  0  3  0  1  0  0  12
+
+Time progress: time = 22.10755007350693
+NextEvent: time = 22.10755007350693   Event 'T_Talk'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  24  0  0  4  0  1  0  0  13
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  24  0  0  4  0  1  0  0  13
+
+Time progress: time = 23.53438019664008
+NextEvent: time = 23.53438019664008   Event 'T_Talk'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  24  0  0  5  0  1  0  0  14
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  24  0  0  5  0  1  0  0  14
+
+Time progress: time = 24.432708145564302
+NextEvent: time = 24.432708145564302   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  25  1  0  5  0  1  0  0  14
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  25  0  0  4  0  1  0  0  14
+
+Time progress: time = 24.432708145564302
+NextEvent: time = 24.432708145564302   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  25  0  0  4  1  1  0  0  14
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  25  0  0  4  0  0  0  0  14
+
+Time progress: time = 24.432708145564302
+NextEvent: time = 24.432708145564302   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  25  0  0  4  0  0  1  0  14
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  25  0  0  4  0  0  0  0  14
+
+Time progress: time = 24.584105589118092
+NextEvent: time = 24.584105589118092   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  25  0  0  4  0  1  0  1  14
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  25  0  0  4  0  1  0  0  14
+
+Time progress: time = 24.61075395835041
+NextEvent: time = 24.61075395835041   Event 'T_Talk'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  25  0  0  5  0  1  0  0  15
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  25  0  0  5  0  1  0  0  15
+
+Time progress: time = 25.22165998002057
+NextEvent: time = 25.22165998002057   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  26  1  0  5  0  1  0  0  15
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  26  0  0  4  0  1  0  0  15
+
+Time progress: time = 25.22165998002057
+NextEvent: time = 25.22165998002057   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  26  0  0  4  1  1  0  0  15
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  26  0  0  4  0  0  0  0  15
+
+Time progress: time = 25.22165998002057
+NextEvent: time = 25.22165998002057   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  26  0  0  4  0  0  1  0  15
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  26  0  0  4  0  0  0  0  15
+
+Time progress: time = 25.65868638166197
+NextEvent: time = 25.65868638166197   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  26  0  0  4  0  1  0  1  15
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  26  0  0  4  0  1  0  0  15
+
+Time progress: time = 26.008383718417726
+NextEvent: time = 26.008383718417726   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  27  1  0  4  0  1  0  0  15
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  27  0  0  3  0  1  0  0  15
+
+Time progress: time = 26.008383718417726
+NextEvent: time = 26.008383718417726   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  27  0  0  3  1  1  0  0  15
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  27  0  0  3  0  0  0  0  15
+
+Time progress: time = 26.008383718417726
+NextEvent: time = 26.008383718417726   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  27  0  0  3  0  0  1  0  15
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  27  0  0  3  0  0  0  0  15
+
+Time progress: time = 26.081972049338162
+NextEvent: time = 26.081972049338162   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  27  0  0  3  0  1  0  1  15
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  27  0  0  3  0  1  0  0  15
+
+Time progress: time = 26.623861415254378
+NextEvent: time = 26.623861415254378   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  28  1  0  3  0  1  0  0  15
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  28  0  0  2  0  1  0  0  15
+
+Time progress: time = 26.623861415254378
+NextEvent: time = 26.623861415254378   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  28  0  0  2  1  1  0  0  15
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  28  0  0  2  0  0  0  0  15
+
+Time progress: time = 26.623861415254378
+NextEvent: time = 26.623861415254378   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  28  0  0  2  0  0  1  0  15
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  28  0  0  2  0  0  0  0  15
+
+Time progress: time = 26.690921196631937
+NextEvent: time = 26.690921196631937   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  28  0  0  2  0  1  0  1  15
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  28  0  0  2  0  1  0  0  15
+
+Time progress: time = 27.05236596773832
+NextEvent: time = 27.05236596773832   Event 'T_Talk'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  28  0  0  3  0  1  0  0  16
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  28  0  0  3  0  1  0  0  16
+
+Time progress: time = 27.053094228208316
+NextEvent: time = 27.053094228208316   Event 'T_Retry'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  28  1  1  3  0  1  0  0  16
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  28  0  1  2  0  1  0  0  16
+
+Time progress: time = 27.053094228208316
+NextEvent: time = 27.053094228208316   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  28  0  1  2  1  1  0  0  16
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  28  0  1  2  0  0  0  0  16
+
+Time progress: time = 27.053094228208316
+NextEvent: time = 27.053094228208316   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  28  0  1  2  0  0  1  0  16
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  28  0  1  2  0  0  0  0  16
+
+Time progress: time = 27.116978080227863
+NextEvent: time = 27.116978080227863   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  28  0  1  2  0  1  0  1  16
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  28  0  1  2  0  1  0  0  16
+
+Time progress: time = 28.234070851450458
+NextEvent: time = 28.234070851450458   Event 'T_Talk'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  28  0  1  3  0  1  0  0  17
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  28  0  1  3  0  1  0  0  17
+
+Time progress: time = 28.272176851152448
+NextEvent: time = 28.272176851152448   Event 'T_Talk'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  28  0  1  4  0  1  0  0  18
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  28  0  1  4  0  1  0  0  18
+
+Time progress: time = 28.914535613309013
+NextEvent: time = 28.914535613309013   Event 'T_Retry'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  28  1  2  4  0  1  0  0  18
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  28  0  2  3  0  1  0  0  18
+
+Time progress: time = 28.914535613309013
+NextEvent: time = 28.914535613309013   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  28  0  2  3  1  1  0  0  18
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  28  0  2  3  0  0  0  0  18
+
+Time progress: time = 28.914535613309013
+NextEvent: time = 28.914535613309013   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  28  0  2  3  0  0  1  0  18
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  28  0  2  3  0  0  0  0  18
+
+Time progress: time = 28.964918903606865
+NextEvent: time = 28.964918903606865   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  28  0  2  3  0  1  0  1  18
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  28  0  2  3  0  1  0  0  18
+
+Time progress: time = 29.226164394172073
+NextEvent: time = 29.226164394172073   Event 'T_Talk'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  28  0  2  4  0  1  0  0  19
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  28  0  2  4  0  1  0  0  19
+
+Time progress: time = 30.06934108541027
+NextEvent: time = 30.06934108541027   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  29  1  2  4  0  1  0  0  19
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  29  0  2  3  0  1  0  0  19
+
+Time progress: time = 30.06934108541027
+NextEvent: time = 30.06934108541027   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  29  0  2  3  1  1  0  0  19
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  29  0  2  3  0  0  0  0  19
+
+Time progress: time = 30.06934108541027
+NextEvent: time = 30.06934108541027   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  29  0  2  3  0  0  1  0  19
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  29  0  2  3  0  0  0  0  19
+
+Time progress: time = 30.25352165200323
+NextEvent: time = 30.25352165200323   Event 'T_Retry'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  29  1  3  3  0  0  0  0  19
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  29  0  3  2  0  0  0  0  19
+
+Time progress: time = 30.25352165200323
+NextEvent: time = 30.25352165200323   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  29  0  3  2  1  0  0  0  19
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  29  0  3  2  1  0  0  0  19
+
+Time progress: time = 30.369775477863183
+NextEvent: time = 30.369775477863183   Event 'T_Talk'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  29  0  3  3  1  0  0  0  20
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  29  0  3  3  1  0  0  0  20
+
+Time progress: time = 30.458395301044074
+NextEvent: time = 30.458395301044074   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  29  0  3  3  1  1  0  1  20
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  29  0  3  3  0  0  0  0  20
+
+Time progress: time = 30.458395301044074
+NextEvent: time = 30.458395301044074   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  29  0  3  3  0  0  1  0  20
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  29  0  3  3  0  0  0  0  20
+
+Time progress: time = 30.654704397475587
+NextEvent: time = 30.654704397475587   Event 'T_Talk'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  29  0  3  4  0  0  0  0  21
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  29  0  3  4  0  0  0  0  21
+
+Time progress: time = 30.655625964984242
+NextEvent: time = 30.655625964984242   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  29  0  3  4  0  1  0  1  21
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  29  0  3  4  0  1  0  0  21
+
+Time progress: time = 31.393044417470062
+NextEvent: time = 31.393044417470062   Event 'T_Talk'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  29  0  3  5  0  1  0  0  22
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  29  0  3  5  0  1  0  0  22
+
+Time progress: time = 31.40295066513868
+NextEvent: time = 31.40295066513868   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  30  1  3  5  0  1  0  0  22
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  30  0  3  4  0  1  0  0  22
+
+Time progress: time = 31.40295066513868
+NextEvent: time = 31.40295066513868   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  30  0  3  4  1  1  0  0  22
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  30  0  3  4  0  0  0  0  22
+
+Time progress: time = 31.40295066513868
+NextEvent: time = 31.40295066513868   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  30  0  3  4  0  0  1  0  22
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  30  0  3  4  0  0  0  0  22
+
+Time progress: time = 32.38319666751399
+NextEvent: time = 32.38319666751399   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  30  0  3  4  0  1  0  1  22
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  30  0  3  4  0  1  0  0  22
+
+Time progress: time = 32.40272390620552
+NextEvent: time = 32.40272390620552   Event 'T_Retry'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  30  1  4  4  0  1  0  0  22
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  30  0  4  3  0  1  0  0  22
+
+Time progress: time = 32.40272390620552
+NextEvent: time = 32.40272390620552   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  30  0  4  3  1  1  0  0  22
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  30  0  4  3  0  0  0  0  22
+
+Time progress: time = 32.40272390620552
+NextEvent: time = 32.40272390620552   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  30  0  4  3  0  0  1  0  22
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  30  0  4  3  0  0  0  0  22
+
+Time progress: time = 32.454603961470475
+NextEvent: time = 32.454603961470475   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  30  0  4  3  0  1  0  1  22
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  30  0  4  3  0  1  0  0  22
+
+Time progress: time = 32.77622981265343
+NextEvent: time = 32.77622981265343   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  31  1  4  3  0  1  0  0  22
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  31  0  4  2  0  1  0  0  22
+
+Time progress: time = 32.77622981265343
+NextEvent: time = 32.77622981265343   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  31  0  4  2  1  1  0  0  22
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  31  0  4  2  0  0  0  0  22
+
+Time progress: time = 32.77622981265343
+NextEvent: time = 32.77622981265343   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  31  0  4  2  0  0  1  0  22
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  31  0  4  2  0  0  0  0  22
+
+Time progress: time = 32.91690814034637
+NextEvent: time = 32.91690814034637   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  31  0  4  2  0  1  0  1  22
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  31  0  4  2  0  1  0  0  22
+
+Time progress: time = 33.01686690414548
+NextEvent: time = 33.01686690414548   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  32  1  4  2  0  1  0  0  22
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  32  0  4  1  0  1  0  0  22
+
+Time progress: time = 33.01686690414548
+NextEvent: time = 33.01686690414548   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  32  0  4  1  1  1  0  0  22
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  32  0  4  1  0  0  0  0  22
+
+Time progress: time = 33.01686690414548
+NextEvent: time = 33.01686690414548   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  32  0  4  1  0  0  1  0  22
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  32  0  4  1  0  0  0  0  22
+
+Time progress: time = 33.16345851777304
+NextEvent: time = 33.16345851777304   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  32  0  4  1  0  1  0  1  22
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  32  0  4  1  0  1  0  0  22
+
+Time progress: time = 33.90639982297298
+NextEvent: time = 33.90639982297298   Event 'T_Talk'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  32  0  4  2  0  1  0  0  23
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  32  0  4  2  0  1  0  0  23
+
+Time progress: time = 34.39154357346261
+NextEvent: time = 34.39154357346261   Event 'T_Retry'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  32  1  5  2  0  1  0  0  23
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  32  0  5  1  0  1  0  0  23
+
+Time progress: time = 34.39154357346261
+NextEvent: time = 34.39154357346261   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  32  0  5  1  1  1  0  0  23
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  32  0  5  1  0  0  0  0  23
+
+Time progress: time = 34.39154357346261
+NextEvent: time = 34.39154357346261   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  32  0  5  1  0  0  1  0  23
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  32  0  5  1  0  0  0  0  23
+
+Time progress: time = 34.45259315346352
+NextEvent: time = 34.45259315346352   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  33  1  5  1  0  0  0  0  23
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  33  0  5  0  0  0  0  0  23
+
+Time progress: time = 34.45259315346352
+NextEvent: time = 34.45259315346352   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  33  0  5  0  1  0  0  0  23
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  33  0  5  0  1  0  0  0  23
+
+Time progress: time = 34.7799168241149
+NextEvent: time = 34.7799168241149   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  33  0  5  0  1  1  0  1  23
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  33  0  5  0  0  0  0  0  23
+
+Time progress: time = 34.7799168241149
+NextEvent: time = 34.7799168241149   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  33  0  5  0  0  0  1  0  23
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  33  0  5  0  0  0  0  0  23
+
+Time progress: time = 34.90380305674262
+NextEvent: time = 34.90380305674262   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  33  0  5  0  0  1  0  1  23
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  33  0  5  0  0  1  0  0  23
+
+Time progress: time = 35.07016273760053
+NextEvent: time = 35.07016273760053   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  34  1  5  0  0  1  0  0  23
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  34  0  5  0  0  1  0  0  23
+
+Time progress: time = 35.489860164230805
+NextEvent: time = 35.489860164230805   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  35  1  5  0  0  1  0  0  23
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  35  0  5  0  0  1  0  0  23
+
+Time progress: time = 35.679295767158784
+NextEvent: time = 35.679295767158784   Event 'T_Talk'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  35  0  5  1  0  1  0  0  24
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  35  0  5  1  0  1  0  0  24
+
+Time progress: time = 36.0727136098214
+NextEvent: time = 36.0727136098214   Event 'T_Talk'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  35  0  5  2  0  1  0  0  25
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  35  0  5  2  0  1  0  0  25
+
+Time progress: time = 36.72536630710425
+NextEvent: time = 36.72536630710425   Event 'T_Talk'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  35  0  5  3  0  1  0  0  26
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  35  0  5  3  0  1  0  0  26
+
+Time progress: time = 38.08522356496368
+NextEvent: time = 38.08522356496368   Event 'T_Talk'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  35  0  5  4  0  1  0  0  27
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  35  0  5  4  0  1  0  0  27
+
+Time progress: time = 38.140094209801674
+NextEvent: time = 38.140094209801674   Event 'T_Talk'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  35  0  5  5  0  1  0  0  28
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  35  0  5  5  0  1  0  0  28
+
+Time progress: time = 38.27780238769626
+NextEvent: time = 38.27780238769626   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  36  1  5  5  0  1  0  0  28
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  36  0  5  4  0  1  0  0  28
+
+Time progress: time = 38.27780238769626
+NextEvent: time = 38.27780238769626   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  36  0  5  4  1  1  0  0  28
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  36  0  5  4  0  0  0  0  28
+
+Time progress: time = 38.27780238769626
+NextEvent: time = 38.27780238769626   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  36  0  5  4  0  0  1  0  28
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  36  0  5  4  0  0  0  0  28
+
+Time progress: time = 38.569923037108005
+NextEvent: time = 38.569923037108005   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  36  0  5  4  0  1  0  1  28
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  36  0  5  4  0  1  0  0  28
+
+Time progress: time = 38.96952084771557
+NextEvent: time = 38.96952084771557   Event 'T_Talk'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  36  0  5  5  0  1  0  0  29
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  36  0  5  5  0  1  0  0  29
+
+Time progress: time = 39.56501336149762
+NextEvent: time = 39.56501336149762   Event 'T_Talk'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  36  0  5  6  0  1  0  0  30
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  36  0  5  6  0  1  0  0  30
+
+Time progress: time = 40.6084948570104
+NextEvent: time = 40.6084948570104   Event 'T_Talk'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  36  0  5  7  0  1  0  0  31
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  36  0  5  7  0  1  0  0  31
+
+Time progress: time = 40.69604958171051
+NextEvent: time = 40.69604958171051   Event 'T_Talk'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  36  0  5  8  0  1  0  0  32
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  36  0  5  8  0  1  0  0  32
+
+Time progress: time = 41.05366119849027
+NextEvent: time = 41.05366119849027   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  37  1  5  8  0  1  0  0  32
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  37  0  5  7  0  1  0  0  32
+
+Time progress: time = 41.05366119849027
+NextEvent: time = 41.05366119849027   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  37  0  5  7  1  1  0  0  32
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  37  0  5  7  0  0  0  0  32
+
+Time progress: time = 41.05366119849027
+NextEvent: time = 41.05366119849027   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  37  0  5  7  0  0  1  0  32
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  37  0  5  7  0  0  0  0  32
+
+Time progress: time = 41.17840303422631
+NextEvent: time = 41.17840303422631   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  37  0  5  7  0  1  0  1  32
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  37  0  5  7  0  1  0  0  32
+
+Time progress: time = 41.93754984479316
+NextEvent: time = 41.93754984479316   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  38  1  5  7  0  1  0  0  32
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  38  0  5  6  0  1  0  0  32
+
+Time progress: time = 41.93754984479316
+NextEvent: time = 41.93754984479316   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  38  0  5  6  1  1  0  0  32
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  38  0  5  6  0  0  0  0  32
+
+Time progress: time = 41.93754984479316
+NextEvent: time = 41.93754984479316   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  38  0  5  6  0  0  1  0  32
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  38  0  5  6  0  0  0  0  32
+
+Time progress: time = 42.04612782501901
+NextEvent: time = 42.04612782501901   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  38  0  5  6  0  1  0  1  32
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  38  0  5  6  0  1  0  0  32
+
+Time progress: time = 44.15149319954881
+NextEvent: time = 44.15149319954881   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  39  1  5  6  0  1  0  0  32
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  39  0  5  5  0  1  0  0  32
+
+Time progress: time = 44.15149319954881
+NextEvent: time = 44.15149319954881   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  39  0  5  5  1  1  0  0  32
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  39  0  5  5  0  0  0  0  32
+
+Time progress: time = 44.15149319954881
+NextEvent: time = 44.15149319954881   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  39  0  5  5  0  0  1  0  32
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  39  0  5  5  0  0  0  0  32
+
+Time progress: time = 44.772903484451724
+NextEvent: time = 44.772903484451724   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  39  0  5  5  0  1  0  1  32
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  39  0  5  5  0  1  0  0  32
+
+Time progress: time = 45.80410848847635
+NextEvent: time = 45.80410848847635   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  40  1  5  5  0  1  0  0  32
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  40  0  5  4  0  1  0  0  32
+
+Time progress: time = 45.80410848847635
+NextEvent: time = 45.80410848847635   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  40  0  5  4  1  1  0  0  32
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  40  0  5  4  0  0  0  0  32
+
+Time progress: time = 45.80410848847635
+NextEvent: time = 45.80410848847635   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  40  0  5  4  0  0  1  0  32
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  40  0  5  4  0  0  0  0  32
+
+Time progress: time = 45.884553903954966
+NextEvent: time = 45.884553903954966   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  40  0  5  4  0  1  0  1  32
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  40  0  5  4  0  1  0  0  32
+
+Time progress: time = 45.92890201131339
+NextEvent: time = 45.92890201131339   Event 'T_Retry'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  40  1  6  4  0  1  0  0  32
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  40  0  6  3  0  1  0  0  32
+
+Time progress: time = 45.92890201131339
+NextEvent: time = 45.92890201131339   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  40  0  6  3  1  1  0  0  32
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  40  0  6  3  0  0  0  0  32
+
+Time progress: time = 45.92890201131339
+NextEvent: time = 45.92890201131339   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  40  0  6  3  0  0  1  0  32
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  40  0  6  3  0  0  0  0  32
+
+Time progress: time = 46.04173326164424
+NextEvent: time = 46.04173326164424   Event 'T_Talk'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  40  0  6  4  0  0  0  0  33
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  40  0  6  4  0  0  0  0  33
+
+Time progress: time = 46.0883436865598
+NextEvent: time = 46.0883436865598   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  40  0  6  4  0  1  0  1  33
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  40  0  6  4  0  1  0  0  33
+
+Time progress: time = 46.477963473307454
+NextEvent: time = 46.477963473307454   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  41  1  6  4  0  1  0  0  33
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  41  0  6  3  0  1  0  0  33
+
+Time progress: time = 46.477963473307454
+NextEvent: time = 46.477963473307454   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  41  0  6  3  1  1  0  0  33
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  41  0  6  3  0  0  0  0  33
+
+Time progress: time = 46.477963473307454
+NextEvent: time = 46.477963473307454   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  41  0  6  3  0  0  1  0  33
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  41  0  6  3  0  0  0  0  33
+
+Time progress: time = 46.549026293503005
+NextEvent: time = 46.549026293503005   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  41  0  6  3  0  1  0  1  33
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  41  0  6  3  0  1  0  0  33
+
+Time progress: time = 47.34404925025272
+NextEvent: time = 47.34404925025272   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  42  1  6  3  0  1  0  0  33
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  42  0  6  2  0  1  0  0  33
+
+Time progress: time = 47.34404925025272
+NextEvent: time = 47.34404925025272   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  42  0  6  2  1  1  0  0  33
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  42  0  6  2  0  0  0  0  33
+
+Time progress: time = 47.34404925025272
+NextEvent: time = 47.34404925025272   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  42  0  6  2  0  0  1  0  33
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  42  0  6  2  0  0  0  0  33
+
+Time progress: time = 47.45043206126916
+NextEvent: time = 47.45043206126916   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  43  1  6  2  0  0  0  0  33
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  43  0  6  1  0  0  0  0  33
+
+Time progress: time = 47.45043206126916
+NextEvent: time = 47.45043206126916   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  43  0  6  1  1  0  0  0  33
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  43  0  6  1  1  0  0  0  33
+
+Time progress: time = 47.56276460371609
+NextEvent: time = 47.56276460371609   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  43  0  6  1  1  1  0  1  33
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  43  0  6  1  0  0  0  0  33
+
+Time progress: time = 47.56276460371609
+NextEvent: time = 47.56276460371609   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  43  0  6  1  0  0  1  0  33
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  43  0  6  1  0  0  0  0  33
+
+Time progress: time = 47.67103643630004
+NextEvent: time = 47.67103643630004   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  43  0  6  1  0  1  0  1  33
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  43  0  6  1  0  1  0  0  33
+
+Time progress: time = 48.121882138357215
+NextEvent: time = 48.121882138357215   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  44  1  6  1  0  1  0  0  33
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  44  0  6  0  0  1  0  0  33
+
+Time progress: time = 48.121882138357215
+NextEvent: time = 48.121882138357215   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  44  0  6  0  1  1  0  0  33
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  44  0  6  0  0  0  0  0  33
+
+Time progress: time = 48.121882138357215
+NextEvent: time = 48.121882138357215   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  44  0  6  0  0  0  1  0  33
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  44  0  6  0  0  0  0  0  33
+
+Time progress: time = 48.251395678495555
+NextEvent: time = 48.251395678495555   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  44  0  6  0  0  1  0  1  33
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  44  0  6  0  0  1  0  0  33
+
+Time progress: time = 49.099861307887515
+NextEvent: time = 49.099861307887515   Event 'T_Talk'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  44  0  6  1  0  1  0  0  34
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  44  0  6  1  0  1  0  0  34
+
+Time progress: time = 49.492043563075775
+NextEvent: time = 49.492043563075775   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  45  1  6  1  0  1  0  0  34
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  45  0  6  0  0  1  0  0  34
+
+Time progress: time = 49.492043563075775
+NextEvent: time = 49.492043563075775   Event 'T_TakeL1'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  45  0  6  0  1  1  0  0  34
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  45  0  6  0  0  0  0  0  34
+
+Time progress: time = 49.492043563075775
+NextEvent: time = 49.492043563075775   Event 'T_TakeL2'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  45  0  6  0  0  0  1  0  34
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  45  0  6  0  0  0  0  0  34
+
+Time progress: time = 49.69009026387022
+NextEvent: time = 49.69009026387022   Event 'T_Dial'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  45  0  6  0  0  1  0  1  34
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  45  0  6  0  0  1  0  0  34
+
+Time progress: time = 49.78784424478837
+NextEvent: time = 49.78784424478837   Event 'T_Arrival'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+1  46  1  6  0  0  1  0  0  34
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  46  0  6  0  0  1  0  0  34
+
+Time progress: time = 49.821930016349334
+NextEvent: time = 49.821930016349334   Event 'T_Talk'
+Markers leave transitions:
+Mark in Net TelephoneNetworkModel:
+0  46  0  6  1  0  1  0  0  35
+Markers enter transitions:
+Mark in Net TelephoneNetworkModel:
+0  46  0  6  1  0  1  0  0  35
